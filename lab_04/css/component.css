@@ -1,0 +1,31 @@
+.component{
+    background-color: lightgray;
+    border:1px;
+    border-style: solid;
+    border-color: rgb(178, 224, 109);
+    border-radius: 10px;
+    width: 210px;
+    text-align: center;
+}
+
+p.info{
+    font-family: 'Geneva', 'Verdana', 'sans-serif';
+    text-align: center;
+    font-size: 13px;
+}
+
+p.producerandmodel{
+    font-weight: bold;
+    font-family: 'Geneva', 'Verdana', 'sans-serif';
+    text-align: center;
+}
+
+.picture{   
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
